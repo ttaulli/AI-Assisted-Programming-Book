@@ -14,8 +14,18 @@
 - [Tabnine](https://www.tabnine.com/)
 - [Cursor](https://cursor.sh/)
 - [Cody](https://sourcegraph.com/cody)
+- [Replit](https://replit.com/)
+- [Codium](https://codeium.com/)
+
 
 ## YouTube Videos
 
 - [GitHub Universe 2023 opening keynote- Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE&t=2s)
 - [Empowering devs with AI: How Shopify made GitHub Copilot core to its culture](https://www.youtube.com/watch?v=wVKBwcm5dbw)
+
+
+## Research
+
+- [Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT](https://arxiv.org/abs/2304.10778)
+- [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
+- [AI code, security, and trust in modern development](https://snyk.io/reports/ai-code-security/)
