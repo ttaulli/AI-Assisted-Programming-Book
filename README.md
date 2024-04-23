@@ -14,3 +14,8 @@
 - [Tabnine](https://www.tabnine.com/)
 - [Cursor](https://cursor.sh/)
 - [Cody](https://sourcegraph.com/cody)
+
+## YouTube Videos
+
+- [GitHub Universe 2023 opening keynote- Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE&t=2s)
+- [Empowering devs with AI: How Shopify made GitHub Copilot core to its culture](https://www.youtube.com/watch?v=wVKBwcm5dbw)
