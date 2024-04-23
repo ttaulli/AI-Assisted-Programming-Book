@@ -26,6 +26,7 @@
 
 ## Research
 
+- [Pluralsight research finds 74% of software developers are planning to upskill in AI-assisted coding](https://www.pluralsight.com/newsroom/press-releases/pluralsight-research-finds-74--of-software-developers-are-planni)
 - [Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT](https://arxiv.org/abs/2304.10778)
 - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 - [AI code, security, and trust in modern development](https://snyk.io/reports/ai-code-security/)
