@@ -3,12 +3,17 @@
 # Create code by using comments
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
 
+
+
+
 # Start with def add
+
+
 
 # Create code by using Chat
 # Prompt:  Write a program that converts fahrenheit to celsius
 
-# Agents
+# @ sign is used to call an agent
 # Help with the terminal
 # Insert it into the terminal
 # Prompt:  @terminal What is the command to list the files in a directory?
@@ -40,11 +45,8 @@
 # ctrl + i for Windows
 # cmd + i for Mac
 
-def add(a, b):
-    """
-    Adds two numbers and returns the result.
-    """
-    return a + b
+def add(a, b)
+    eturn a + b
 
 # /doc to add comments and documentation
 
@@ -53,6 +55,7 @@ def add(a, b):
 # Can be more than about making things more tidy
 # Can be helpful if you are going to focus on another topic
 
+# Can create a Notebook
 # @workspace /newNotebook Python to load a CSV dataset
 
 
