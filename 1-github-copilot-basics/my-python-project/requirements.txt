@@ -1,3 +1,0 @@
-# This file lists the dependencies required for the project
-
-# Add your project dependencies below

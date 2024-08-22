@@ -12,6 +12,7 @@
 
 # Create code by using Chat
 # Prompt:  Write a program that converts fahrenheit to celsius
+# Note:  in the chat input box, you can see chat history with up arrow.
 
 # @ sign is used to call an agent
 # Help with the terminal
@@ -30,14 +31,22 @@
 # #selection is what you have highlighted in the active file
 
 # @workspace 
-# Refers to the entire set of files and folders that are currently open 
-# and being managed within the Visual Studio Code workspace.
-# All the files and directories in the root folder of the workspace.
-# Any additional folders that have been added to the workspace.
+# Refers to the Visual Studio Code workspace
+# Can't look at everything because of the limits of the LLM's context window 
+# Code bases can be massive
+# so will evaluate:
+# 1. file system structure
+# 2. relevant code snippets (class, methods, comments)
+# does not have access to git history
+# Cannot handle prompts like:
+# "Fix all the bugs in this project" (too vague and expansive)
+# "How many JS files does this project have?" (LLMs not good at counting; besides can use VS Code for this)
+
 
 # Example:  my-python-project
-# Open the files in the project
-# Prompt:  @workspace /search function1()
+# Prompt:  @workspace what is todo-app?
+# Fuzzy search
+# Prompt:  What code adds a task?
 # Click the references
 
 # /explain provide details about the code
@@ -45,8 +54,8 @@
 # ctrl + i for Windows
 # cmd + i for Mac
 
-def add(a, b)
-    eturn a + b
+def add(a, b):
+    return a + b
 
 # /doc to add comments and documentation
 
