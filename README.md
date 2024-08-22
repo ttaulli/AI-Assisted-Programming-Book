@@ -30,3 +30,9 @@
 - [Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT](https://arxiv.org/abs/2304.10778)
 - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 - [AI code, security, and trust in modern development](https://snyk.io/reports/ai-code-security/)
+
+## Articles
+
+- [The reality of AI-centric coding](https://www.infoworld.com/article/3491333/the-reality-of-ai-centric-coding.html)
+- [How AI-Assisted Programming Tools Can Boost Your Startup](https://www.inc.com/tom-taulli/how-ai-assisted-programming-tools-can-boost-your-startup.html)
+- [Cognition Labs Aims to Revolutionize Coding With AI](https://www.pymnts.com/artificial-intelligence-2/2024/cognition-labs-aims-to-revolutionize-coding-with-ai/)
