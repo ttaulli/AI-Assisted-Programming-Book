@@ -23,7 +23,7 @@
 - [GitHub Universe 2023 opening keynote- Copilot in the Age of AI](https://www.youtube.com/watch?v=NrQkdDVupQE&t=2s)
 - [Empowering devs with AI: How Shopify made GitHub Copilot core to its culture](https://www.youtube.com/watch?v=wVKBwcm5dbw)
 
-
+## Research
 
 - [Pluralsight research finds 74% of software developers are planning to upskill in AI-assisted coding](https://www.pluralsight.com/newsroom/press-releases/pluralsight-research-finds-74--of-software-developers-are-planni)
 - [Evaluating the Code Quality of AI-Assisted Code Generation Tools: An Empirical Study on GitHub Copilot, Amazon CodeWhisperer, and ChatGPT](https://arxiv.org/abs/2304.10778)
