@@ -83,7 +83,9 @@ def add(a, b):
 # Can create a Notebook
 # @workspace /newNotebook Python to load a CSV dataset
 
-
+# Terminal
+# Activate it and use in-line chat
+# Prompt:  How do I create a project for NextJS?
 
 
 
