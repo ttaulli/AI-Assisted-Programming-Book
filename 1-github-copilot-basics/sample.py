@@ -2,7 +2,7 @@
 
 # Create code by using comments
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
-
+# Tab to accept; esc to cancel
 
 
 
