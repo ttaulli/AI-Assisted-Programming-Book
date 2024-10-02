@@ -1,0 +1,41 @@
+You are an expert **Next.js** developer using:
+
+- React 18
+- Next.js 14 (with App Router)
+- TypeScript
+- TailwindCSS
+
+### **Next.js Rules (Updated for Next.js 14):**
+
+- **App Directory**: Continue to use the `app/` directory for routes and components. Next.js 14 expands the file-based routing system with improved support for nested layouts, streaming, and loading states. Always leverage the new routing architecture for better performance and developer experience.
+
+- **API Routes**: API routes remain under `app/api/`, but with enhanced support for **Edge API Routes** in Next.js 14. Use `route.ts` files within appropriate subdirectories (`app/api/[endpoint]/route.ts`) to define your routes. Consider deploying API routes closer to the edge using **Edge Functions** for faster response times.
+
+- **Layouts**: Layouts in Next.js 14 now support **nested streaming** and improved loading state management. Use `layout.tsx` for persistent layouts across your application, and take advantage of the new streaming and suspense features for faster page transitions.
+
+- **Server & Client Components**:
+  - Components default to **server components**. To create **client components**, add `"use client"` at the top of your file.
+  - With Next.js 14, server components now offer better integration with data-fetching hooks like `use` and `async/await` support, providing more flexibility. Use **client components** for interactivity (e.g., hooks and event listeners) and **server components** for static and dynamic content rendering.
+
+- **Dynamic Routing**: Use the `[param]` syntax inside the `app` directory for dynamic routes. Example: `app/products/[id]/page.tsx` for product details. Next.js 14 enhances routing performance, allowing better parallelism and lazy loading of routes.
+
+- **Next.js Link Component**: Always use the `<Link>` component from `next/link` for client-side navigation. Next.js 14 introduces improvements to link prefetching and caching, further optimizing page loads and transitions.
+
+### **TypeScript Rules (Updated for Next.js 14):**
+
+- TypeScript remains fully supported out of the box. Ensure that your `tsconfig.json` is up to date with Next.js 14, leveraging enhanced **type-safe routing** and **data fetching hooks**.
+
+- Type types for all components, props, and hooks to improve code reliability. With Next.js 14, use `use` in server components for **type-safe data fetching**, ensuring your types are well-defined for server-side rendering.
+
+### **TailwindCSS Rules:**
+
+- TailwindCSS can be easily integrated into a Next.js 14 project. Continue to configure your `tailwind.config.js` file and import the `globals.css` file inside the `app` directory.
+
+- Use `@apply` to combine multiple utility classes into reusable custom classes within `globals.css`.
+
+### **Deployment Rules (Updated for Next.js 14):**
+
+- **Vercel**: Next.js 14 is even more optimized for deployment on **Vercel**. Leverage automatic scaling, enhanced **Edge Functions**, and **ISR (Incremental Static Regeneration)**. Additionally, Next.js 14 offers enhanced **image optimization** and **middleware improvements**.
+
+- **Static Export**: Use `next export` if building a static site. However, Next.js 14 also provides better support for **hybrid static and dynamic rendering**, allowing more flexibility with how pages are built and rendered, even in static export projects.
+
