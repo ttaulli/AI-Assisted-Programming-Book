@@ -87,7 +87,9 @@ def add(a, b):
 # Activate it and use in-line chat
 # Prompt:  How do I create a project for NextJS?
 
-
+# Use GitHub Copilot in GitHub.com
+# Access it by clicking the icon on the top right of the screen
+# Can work with repositories
 
 
 
