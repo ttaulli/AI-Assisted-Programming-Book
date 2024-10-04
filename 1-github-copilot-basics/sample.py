@@ -94,6 +94,13 @@ def add(a, b):
 # Can work with repositories or ask generic questions
 # Click into the code
 # Click file icon and get repo
+# Can use extensions for Chat
+# Activate them but may be fee
+# In the Chat, you can select the ...
+# Different ways to intereact with Chat, such as Immersive mode
+
+
+
 
 
 
