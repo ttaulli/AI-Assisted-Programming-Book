@@ -58,6 +58,8 @@ if __name__ == "__main__":
 # "Fix all the bugs in this project" (too vague and expansive)
 # "How many JS files does this project have?" (LLMs not good at counting; besides can use VS Code for this)
 
+# In the Chat, yoou can select the file icon
+# Can indicate what part of the program you want to focus on
 
 # Example:  my-python-project
 # Prompt:  @workspace what is todo-app?
@@ -89,7 +91,11 @@ def add(a, b):
 
 # Use GitHub Copilot in GitHub.com
 # Access it by clicking the icon on the top right of the screen
-# Can work with repositories
+# Can work with repositories or ask generic questions
+# Click into the code
+# Click file icon and get repo
+
+
 
 
 
