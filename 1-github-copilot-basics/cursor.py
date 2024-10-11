@@ -29,7 +29,13 @@
 # Uses RAG (Retrieval Augmented Generation)
 # Sophisticated search for your codebase
 
-
+# Chat
+# CMD + L (Mac)
+# CTRL + L (Windows)
+# Asks questions about the code
+# Default is the current screen in the editor
+# Click + to add context
+# Can include images for this
 
 
 
