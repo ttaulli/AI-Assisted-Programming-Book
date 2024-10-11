@@ -29,6 +29,7 @@
 # When prompting, what are you refering to?
 # #editor is the context for the active file
 # #file the file where your cursor is
+# Do not even need to specify "file" because it is the default
 # #selection is what you have highlighted in the active file
 
 def bubble_sort(arr):
