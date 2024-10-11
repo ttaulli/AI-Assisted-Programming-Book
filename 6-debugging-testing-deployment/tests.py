@@ -18,11 +18,3 @@ def multiply(a, b):
 def add_and_multiply(a, b, c):
     return multiply(add(a, b), c)
 
-# Performance testing
-# Focus on speed, responsiveness, and stability of the system under a particular workload
-
-import time
-
-def slow_function():
-    time.sleep(2)
-    return True
