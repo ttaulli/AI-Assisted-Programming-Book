@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./6-debugging-testing-deployment"
+    ]
+}
