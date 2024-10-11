@@ -1,3 +1,9 @@
+# Can download at cursor.com
+# Free tier/paid tier
+
+# Fork of VS Code
+# Easier learning curve
+
 # Using Cursor  
 
 # Features
@@ -18,6 +24,10 @@
 
 # Can select different models
 # Can use your own LLM API keys
+
+# Index code
+# Uses RAG (Retrieval Augmented Generation)
+# Sophisticated search for your codebase
 
 
 
