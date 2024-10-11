@@ -36,6 +36,9 @@
 # Default is the current screen in the editor
 # Click + to add context
 # Can include images for this
+# Select the todo app
+# Prompt:  Can you add a selection for clear?
+# Can copy or apply it to the code
 
 
 
