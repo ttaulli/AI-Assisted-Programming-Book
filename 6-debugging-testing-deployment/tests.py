@@ -24,3 +24,10 @@ def factorial(n):
 # Prompt:  Are there any other edge cases that should be tested?
 
 # Prompt:  Create validation for the n argument
+
+# Test-Driven Development (TDD)
+# Tests are written before the actual code
+# Write test + make it fail + write code to pass it + refactor 
+# Prompt:  I want to use the test-drive development process for building a Python function that calculate whether a number is prime.  So write a failing test.
+# Prompt:  Write code to make the test pass with minimal implementation.
+# Prompt:  Refactor
