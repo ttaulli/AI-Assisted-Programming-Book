@@ -15,6 +15,9 @@
 # Prompt:  Write a program that converts fahrenheit to celsius
 # Note:  in the chat input box, you can see chat history with up arrow.
 
+# In the chat, you can select the LLL (large language model)
+# gpt-4o (default), o1-previe, 01-mini
+# Icon for audio
 # @ sign is used to call an agent
 # Help with the terminal
 # Insert it into the terminal
