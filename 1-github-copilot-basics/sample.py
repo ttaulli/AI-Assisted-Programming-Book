@@ -34,6 +34,8 @@
 # #file the file where your cursor is
 # Do not even need to specify "file" because it is the default
 # #selection is what you have highlighted in the active file
+# if GitHub Copilot does not have the relevant context, it often will 
+# respond with a more generic answer
 
 def bubble_sort(arr):
     n = len(arr)
