@@ -105,6 +105,9 @@ def add(a, b):
 # In the Chat, you can select the ...
 # Different ways to intereact with Chat, such as Immersive mode
 
+# LLM cut-off for training date
+# Prompt:  As of your last training date, what was the current version of Go?
+
 
 
 
