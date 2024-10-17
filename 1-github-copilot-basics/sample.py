@@ -95,6 +95,15 @@ def add(a, b):
 # Activate it and use in-line chat
 # Prompt:  How do I create a project for NextJS?
 
+# GitHub CLI
+# Installation:  https://cli.github.com/
+# In terminal for setup
+# sudo gh auth login (will go through the process for authentication)
+# sudo gh extension install github/gh-copilot
+# sudo gh copilot explain "ps - aux"
+# sudo gh copilot suggest "create a new directory"
+# Note: can create aliases to shorten the commands
+
 # Use GitHub Copilot in GitHub.com
 # Access it by clicking the icon on the top right of the screen
 # Can work with repositories or ask generic questions
