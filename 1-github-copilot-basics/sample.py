@@ -33,6 +33,7 @@
 # #editor is the context for the active file
 # #file the file where your cursor is
 # Do not even need to specify "file" because it is the default
+# Just specify the name of the file
 # #selection is what you have highlighted in the active file
 # if GitHub Copilot does not have the relevant context, it often will 
 # respond with a more generic answer
@@ -94,6 +95,7 @@ def add(a, b):
 # Terminal
 # Activate it and use in-line chat
 # Prompt:  How do I create a project for NextJS?
+# Or select something in the terminal and right click + Copilot + Explain
 
 # GitHub CLI
 # Installation:  https://cli.github.com/
