@@ -1,0 +1,79 @@
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and add instructions for GitHub CLI setup
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and update prompt for finding employees in the sales department
+Refactor code to include additional information about using GitHub Copilot in GitHub.com
+Refactor code to include additional information about using GitHub Copilot in GitHub.com
+Refactor code to include additional information about using GitHub Copilot in GitHub.com
+Refactor code to include factorial function, add comments for prompt and edge case validation, and implement test-driven development process for prime number calculation
+Refactor code to include factorial function and add comments for prompt and edge case validation
+Remove unnecessary comment about performance testing
+Add python.analysis.extraPaths to .vscode/settings.json
+Refactor code to include additional information about Cursor features and system prompts for using GitHub Copilot in GitHub.com
+Refactor code to remove unnecessary comment about specifying "file" as default in the context of prompting
+Add selection for clear in the todo app
+inital
+Refactor code to include additional information about Cursor features and system prompts for using GitHub Copilot in GitHub.com
+Refactor code to include additional information about Cursor and its features
+Refactor code to include features and system prompts for using GitHub Copilot in GitHub.com
+Refactor code to include examples of failed projects due to poor requirements and add prompt for creating a PRD template
+Refactor code to include examples of failed projects due to poor requirements and add prompt for creating a PRD template
+Refactor code to include instructions for using GitHub Copilot in GitHub.com, add capability to select file icon in Chat, and indicate focus area in program
+Refactor code to include instructions for using GitHub Copilot in GitHub.com, add capability to select file icon in Chat, and indicate focus area in program
+Refactor code to include instructions for using GitHub Copilot in GitHub.com
+Refactor code to include capabilities and tour of ChatGPT, and add coding prompt for file renaming automation bot
+Refactor code to include a shadcn/ui link for installing the component
+Refactor code to include modern UI for login page
+Refactor code to include Next.js configuration files, update package.json and tsconfig.json, and add documentation for Next.js 14 features
+Refactor code to remove unnecessary configuration files and unused dependencies
+Refactor code to remove unnecessary configuration files and unused dependencies
+Refactor code to include Next.js configuration files, update package.json and tsconfig.json, and add documentation for Next.js 14 features
+Refactor code to remove unnecessary blank lines and update documentation links
+Refactor code to include Next.js configuration files, update package.json and tsconfig.json, and add documentation for Next.js 14 features
+Refactor code to include Next.js configuration files and update package.json and tsconfig.json
+Refactor code to include specific examples and documentation links, and update prompts, research, competition, and prototype sections
+Initial
+Refactor code to include analysis section with content and RAG usage
+Refactor code to include a function that adds two numbers and update documentation and prompts
+Refactor code to include specific examples and documentation links, and update prompts, research, competition, and prototype sections
+Refactor code to include specific examples and documentation links, and update prompts, research, competition, and prototype sections
+Refactor code to include a function that adds two numbers
+Refactor code to include specific examples and documentation links, and update debugging, documentation, and deployment sections
+Refactor code to include specific examples and documentation links
+Refactor code to simplify a long method or function
+Refactor code to include specific examples and documentation links
+Refactor prompt engineering code to include specific examples and documentation links
+Remove unnecessary files and add investment calculator code
+Remove unnecessary files and add investment calculator code
+Add bubble sort function to sort numbers
+Initial
+Initial
+Initial
+Intitial
+Update README.md
+Initial
+Initial
+Initial
+Initial
+Initial
+Initial
+Initial
+Initial
+Initial
+Initial
+initial commit
+Initial
+initial
+Initial
+initial
+initial
+Update README.md
+Update README.md
+Update README.md
+Update README.md
+Update README.md
+Update README.md
+Update README.md
+first
+Initial commit
