@@ -1,0 +1,21 @@
+House_ID,Address,City,State,Zip_Code,Price,Bedrooms,Bathrooms,Square_Feet
+1,123 Maple St,Springfield,IL,62701,250000,3,2,1500
+2,456 Oak St,Springfield,IL,62701,320000,4,3,2000
+3,789 Pine St,Greenville,OH,43023,180000,2,1,1200
+4,321 Birch St,Fairview,TX,75001,400000,5,4,3000
+5,654 Cedar St,Fairview,TX,75001,350000,4,3,2500
+6,987 Elm St,Fairview,TX,75001,375000,3,3,2800
+7,159 Willow St,Greenville,OH,43023,190000,2,1,1300
+8,753 Spruce St,Springfield,IL,62701,295000,3,2,1800
+9,852 Cherry St,Greenville,OH,43023,210000,2,1,1250
+10,951 Walnut St,Fairview,TX,75001,425000,5,4,3200
+11,741 Redwood St,Fairview,TX,75001,380000,4,3,2600
+12,963 Hickory St,Greenville,OH,43023,215000,2,1,1400
+13,852 Cypress St,Springfield,IL,62701,300000,3,2,1900
+14,753 Ash St,Greenville,OH,43023,185000,2,1,1150
+15,159 Alder St,Springfield,IL,62701,325000,3,2,2100
+16,357 Poplar St,Fairview,TX,75001,410000,5,4,3300
+17,654 Chestnut St,Fairview,TX,75001,385000,4,3,2700
+18,951 Fir St,Springfield,IL,62701,305000,3,2,2000
+19,123 Linden St,Greenville,OH,43023,220000,2,1,1350
+20,456 Dogwood St,Fairview,TX,75001,430000,5,4,3400
