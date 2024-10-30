@@ -16,7 +16,9 @@
 # Note:  in the chat input box, you can see chat history with up arrow.
 
 # In the chat, you can select the LLL (large language model)
-# gpt-4o (default), o1-previe, 01-mini
+# gpt-4o (default), o1-preview, 01-mini
+# Adding Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro
+
 # Icon for audio
 # @ sign is used to call an agent
 # Help with the terminal
