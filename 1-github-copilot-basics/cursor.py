@@ -7,6 +7,12 @@
 # Using Cursor  
 
 # Features
+# Those common with GitHub
+
+# Auto completion
+
+def 
+
 
 # System prompts
 # Context added to the prompt, such as coding conventions you want, language,
