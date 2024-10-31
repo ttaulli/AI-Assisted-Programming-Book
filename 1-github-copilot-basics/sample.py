@@ -88,7 +88,7 @@ def add(a, b):
 # /doc to add comments and documentation
 # Prompt:  Add error handling
 
-# Sidebar chat - icon on the left menu panel on VS Code
+# Sidebar chat - Pull down at top of VS Code
 # /clear
 # Clear the Chat
 # Can be more than about making things more tidy
