@@ -67,7 +67,7 @@ if __name__ == "__main__":
 # "Fix all the bugs in this project" (too vague and expansive)
 # "How many JS files does this project have?" (LLMs not good at counting; besides can use VS Code for this)
 
-# In the Chat, yoou can select the file icon
+# In the Chat, you can select the file icon
 # Can indicate what part of the program you want to focus on
 
 # Example:  my-python-project
@@ -84,7 +84,10 @@ if __name__ == "__main__":
 def add(a, b):
     return a + b
 
+# sparkle icon
 # /doc to add comments and documentation
+# Prompt:  Add error handling
+
 
 # /clear
 # Clear the Chat
