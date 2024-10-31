@@ -10,6 +10,7 @@
 # Those common with GitHub
 
 # Auto completion
+# Use tab to accept
 
 def 
 
