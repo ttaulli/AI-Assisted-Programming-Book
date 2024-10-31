@@ -12,6 +12,7 @@
 
 
 # Create code by using Chat
+# Sidebar chat - Pull down at top of VS Code
 # Prompt:  Write a program that converts fahrenheit to celsius
 # Note:  in the chat input box, you can see chat history with up arrow.
 
@@ -88,7 +89,7 @@ def add(a, b):
 # /doc to add comments and documentation
 # Prompt:  Add error handling
 
-# Sidebar chat - Pull down at top of VS Code
+
 # /clear
 # Clear the Chat
 # Can be more than about making things more tidy
