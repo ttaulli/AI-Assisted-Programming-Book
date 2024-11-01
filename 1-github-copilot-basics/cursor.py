@@ -12,10 +12,12 @@
 # Auto completion
 # Use tab to accept
 
+
+
 def 
 
-
-
+# Fix code on the fly
+add_numbers(num1, num2):
 
 
 # System prompts
