@@ -20,6 +20,18 @@ def
 add_numbers(num1, num2):
 
 
+
+# Chat
+# CMD + L (Mac)
+# CTRL + L (Windows)
+# Asks questions about the code
+# Default is the current screen in the editor
+# Click + to add context
+# Can include images for this
+# Select the todo app
+# Prompt:  Can you add a selection for clear?
+# Can copy or apply it to the code
+
 # System prompts
 # Context added to the prompt, such as coding conventions you want, language,
 # tech stack, etc.
@@ -41,16 +53,7 @@ add_numbers(num1, num2):
 # Uses RAG (Retrieval Augmented Generation)
 # Sophisticated search for your codebase
 
-# Chat
-# CMD + L (Mac)
-# CTRL + L (Windows)
-# Asks questions about the code
-# Default is the current screen in the editor
-# Click + to add context
-# Can include images for this
-# Select the todo app
-# Prompt:  Can you add a selection for clear?
-# Can copy or apply it to the code
+
 
 
 
