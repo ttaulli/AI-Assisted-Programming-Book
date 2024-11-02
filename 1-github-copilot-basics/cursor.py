@@ -29,6 +29,9 @@ add_numbers(num1, num2):
 # Default is the current screen in the editor
 # Click @ to add context
 # + to add files for the context too
+# /doc to get context for frameworks/libraries
+# Prompt:  Using @langchain, write a program that takes input and
+# invokes an LLM
 # can select entire codebase option
 # Select the todo app
 # Prompt:  Can you add a selection for clear?
