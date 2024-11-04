@@ -32,3 +32,12 @@ class TodoList:
             for task in self.tasks:
                 tasks_str += str(task) + "\n"
             return tasks_str
+
+# Define the User class to represent individual users
+class User:
+    def __init__(self, username, password):
+        self.username = username
+        self.password = password
+
+    def __str__(self):
+        return f"User: {self.username}"

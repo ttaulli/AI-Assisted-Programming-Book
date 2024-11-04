@@ -101,7 +101,15 @@ def add(a, b):
 # @workspace /newNotebook Python to load a CSV dataset
 
 # @github
-# can search the web for repos 
+# can search the web for repos
+
+# In the chat, you can select Copilot Edits
+# Top middle icon
+# Similar to the Composer feature in Cursor
+# If you are working with multiple files
+# Select files:  
+# for todo:  main.py, models.py, views.py
+# Prompt:  Add authentication to this
 
 # Terminal
 # Activate it and use in-line chat

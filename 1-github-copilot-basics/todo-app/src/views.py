@@ -12,4 +12,12 @@ def delete_task():
     # Logic to delete a task
     pass
 
+def user_login():
+    # Logic for user login
+    pass
+
+def user_register():
+    # Logic for user registration
+    pass
+
 # Additional view functions or classes can be defined here
