@@ -134,6 +134,8 @@ def add(a, b):
 # The other way is to add it from the chat
 # These extensions can be used with or without Copilot, but have Copilot
 # capabilities
+# Click @ and then select Install Chat Extensions
+
 
 # Copilot allows you to build your own extenions.
 
