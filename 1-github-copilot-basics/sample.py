@@ -139,6 +139,8 @@ def add(a, b):
 
 # Copilot allows you to build your own extenions.
 
+# Click Settings (bottom left icon) and search for Copilot
+
 # Use GitHub Copilot in GitHub.com
 # Access it by clicking the icon on the top right of the screen
 # Can work with repositories or ask generic questions
