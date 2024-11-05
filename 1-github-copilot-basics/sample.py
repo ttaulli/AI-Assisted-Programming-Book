@@ -125,6 +125,18 @@ def add(a, b):
 # sudo gh copilot suggest "create a new directory"
 # Note: can create aliases to shorten the commands
 
+# Copilot extensions
+# Add context, say from third-party apps
+# Two types:
+# Go to those that are only for GitHub Copilot
+# https://github.com/marketplace?type=apps&copilot_app=true
+# Refer to them with @
+# The other way is to add it from the chat
+# These extensions can be used with or without Copilot, but have Copilot
+# capabilities
+
+# Copilot allows you to build your own extenions.
+
 # Use GitHub Copilot in GitHub.com
 # Access it by clicking the icon on the top right of the screen
 # Can work with repositories or ask generic questions
