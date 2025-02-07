@@ -31,3 +31,13 @@ def factorial(n):
 # Prompt:  I want to use the test-drive development process for building a Python function that calculate whether a number is prime.  So write a failing test.
 # Prompt:  Write code to make the test pass with minimal implementation.
 # Prompt:  Refactor
+
+
+
+breakpoints = {
+    'xs': '320',
+    'sm': '576',
+    'md': '768',
+    'lg': '992',
+    'xl': '1200',
+}
