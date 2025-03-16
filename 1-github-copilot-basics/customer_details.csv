@@ -1,0 +1,6 @@
+Customer ID,First Name,Last Name,Email,Phone Number,Address,City,State,ZIP Code
+101,Alice,Smith,alice.smith@example.com,555-1234,"123 Maple St, Springfield",Springfield,IL,62701
+102,Bob,Johnson,bob.johnson@example.com,555-5678,"456 Oak St, Riverside",Riverside,CA,90210
+103,Charlie,Williams,charlie.williams@example.com,555-9101,"789 Pine St, Lakeside",Lakeside,NY,10001
+104,David,Brown,david.brown@example.com,555-1121,"321 Birch St, Meadowview",Meadowview,TX,73301
+105,Eve,Davis,eve.davis@example.com,555-3141,"654 Cedar St, Brookside",Brookside,FL,33101
