@@ -1,13 +1,11 @@
-# /help for general help or you can have a prompt
 
 # Create code by using comments
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
 # Tab to accept; esc to cancel
 
 # Create a Python function that converts fahrenheit to celsius  
-def convert_fahrenheit_to_celsius(fahrenheit):
-    celsius = (fahrenheit - 32) * 5/9
-    return celsius
+
+
 
 # Start with def convert
 
