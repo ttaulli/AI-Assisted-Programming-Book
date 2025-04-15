@@ -12,19 +12,19 @@ def multiply(a, b):
 
 
 # Create code by using Chat
-# Sidebar chat - Pull down at top of VS Code
+# Click Copilot icon on top right of the screen
+# Select Open Chat
 # Prompt:  Write a program that converts fahrenheit to celsius
 # Note:  in the chat input box, you can see chat history with up arrow.
 
 # In the chat, you can select the LLL (large language model)
-# gpt-4o (default), o1-preview, 01-mini
-# Adding Anthropic’s Claude 3.5 Sonnet, Google’s Gemini 1.5 Pro
+# Can bring in LLMs via API - select Manage Models
 # Will see the files that are in the context
-
-
+# Add context like files
 # Icon for audio
-# @ sign is used to call an agent
-# Help with the terminal
+# Ask or activate Edits or Agent
+# @ sign is used to call a service/function
+# @terminal - Help with the terminal
 # Insert it into the terminal
 # Prompt:  @terminal What is the command to list the files in a directory?
 
@@ -35,28 +35,12 @@ def multiply(a, b):
 
 # Working with context
 # When prompting, what are you refering to?
-# #editor is the context for the active file
 # #file the file where your cursor is
 # Do not even need to specify "file" because it is the default
 # Just specify the name of the file
-# #selection is what you have highlighted in the active file
 # if GitHub Copilot does not have the relevant context, it often will 
 # respond with a more generic answer
-
-def bubble_sort(arr):
-    n = len(arr)
-    for i in range(n):
-        for j in range(0, n-i-1):
-            if arr[j] > arr[j+1]:
-                arr[j], arr[j+1] = arr[j+1], arr[j]
-    return arr
-
-if __name__ == "__main__":
-    user_input = input("Enter numbers separated by spaces: ")
-    numbers = list(map(int, user_input.split()))
-    sorted_numbers = bubble_sort(numbers)
-    print("Sorted numbers:", sorted_numbers)
-
+# show how this works with sort.py
 
 # @workspace 
 # Refers to the Visual Studio Code workspace
@@ -76,7 +60,7 @@ if __name__ == "__main__":
 # Example:  my-python-project
 # Prompt:  @workspace what is todo-app?
 # Fuzzy search
-# Prompt:  What code adds a task?
+# Prompt:  @workspace in the todo app, what code adds a task?
 # Click the references
 
 # /explain provide details about the code
@@ -87,21 +71,14 @@ if __name__ == "__main__":
 def add(a, b):
     return a + b
 
-# sparkle icon
-# /doc to add comments and documentation
+# sparkle icon; highlight the code above
 # Prompt:  Add error handling
-
 
 # /clear
 # Clear the Chat
 # Can be more than about making things more tidy
 # Can be helpful if you are going to focus on another topic
-
-# Can create a Notebook
-# @workspace /newNotebook Python to load a CSV dataset
-
-# @github
-# can search the web for repos
+# can also create a new chat session by clicking +
 
 # In the chat, you can select Copilot Edits
 # Top middle icon
@@ -150,13 +127,3 @@ def add(a, b):
 # Activate them but may be fee
 # In the Chat, you can select the ...
 # Different ways to intereact with Chat, such as Immersive mode
-
-# LLM cut-off for training date
-# Prompt:  As of your last training date, what was the current version of Go?
-
-
-
-
-
-
-
