@@ -4,8 +4,6 @@
 # Tab to accept; esc to cancel
 
 
-
-
 # Start with def convert
 
 def multiply(a, b):
