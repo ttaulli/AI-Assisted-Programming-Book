@@ -3,9 +3,6 @@
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
 # Tab to accept; esc to cancel
 
-# Create a Python function that converts fahrenheit to celsius  
-
-
 
 # Start with def convert
 
