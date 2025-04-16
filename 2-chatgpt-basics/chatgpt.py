@@ -33,3 +33,4 @@
 
 # Select icon on bottom right for programming options
 
+# Claude and Gemini demos
