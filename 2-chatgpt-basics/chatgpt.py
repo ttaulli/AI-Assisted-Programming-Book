@@ -29,6 +29,7 @@
 # Write a Python function that reverses a string.
 
 # Select Edit in Canvas
+# Select ... in the input box
 
 # Select icon on bottom right for programming options
 
