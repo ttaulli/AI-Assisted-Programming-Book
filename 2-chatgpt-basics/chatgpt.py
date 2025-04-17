@@ -33,4 +33,18 @@
 
 # Select icon on bottom right for programming options
 
-# Claude and Gemini demos
+# Customized apps for ChatGPT
+# Store
+# Many available for programming
+# Can create your own GPTs
+# Customizations of ChatGPT
+
+# Claude 
+
+# I want to create an investment calculator.  
+# It will allow me to input an initial investment amount 
+# and the average annual return.  
+# I will also be able to input the number of years for 
+# the investment.  Make a Web interface for this.
+
+# Gemini
