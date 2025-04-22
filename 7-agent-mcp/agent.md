@@ -22,7 +22,8 @@ Process:
 
 Prompts
 
-Create a new Nextjs project in the current directory
+Create a new Nextjs project in the current directory. Do not initialize a git repository.
+
 
 How do I run this?
 
