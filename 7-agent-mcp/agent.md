@@ -28,3 +28,10 @@ Create a new Nextjs project in the current directory. Do not initialize a git re
 How do I run this?
 
 Replace the homepage of this project with a search input that for city that provides weather details. use the @fetch https://openweathermap.org/api
+
+MCP Demo
+
+Create a new folder
+
+
+
