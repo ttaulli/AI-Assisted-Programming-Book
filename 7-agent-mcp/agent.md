@@ -47,8 +47,40 @@ MCP Demo
 - Click save
 - Click Insert to add new rows of data
 
+- To to the terminal 
+- npm install -g @supabase/mcp-server-supabase
+- This command installs the Supabase MCP server globally on your system.
+- Obtain Your Supabase Personal Access Token
+- Click on your profile avatar and select Account preferences.
+- Select Access Tokens
+- Select Generate new token
+- Enter name for it
+- Copy your token
+
+- In VS Code, create a .vscode directory in your project root
+- Create a .vscode/mcp.json file 
+- Add the following configuration:
 
 
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "supabase-access-token",
+      "description": "Supabase personal access token",
+      "password": true
+    }
+  ],
+  "servers": {
+    "supabase": {
+      "command": "npx",
+      "args": ["-y", "@supabase/mcp-server-supabase@latest"],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "${input:supabase-access-token}"
+      }
+    }
+  }
+}
 
 
 
