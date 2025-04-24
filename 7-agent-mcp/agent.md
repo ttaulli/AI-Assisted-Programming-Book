@@ -57,8 +57,8 @@ MCP Demo
 - Enter name for it
 - Copy your token
 
-- In VS Code, create a .vscode directory in your project root
-- Create a .vscode/mcp.json file 
+- In VS Code, create a .vscode directory in your project root if it doesn't already exist
+- Create a .vscode/mcp.json file if it doesn't already exist
 - Add the following configuration:
 
 
@@ -82,8 +82,15 @@ MCP Demo
   }
 }
 
-
-
-
+- Save the file
+- You will see Start inside it
+- Click it to run the mcp server
+- Enter your access toke for supabase
+- Activate Chat
+- In the tools icon, you will see you have 26
+- Click it
+- You can select/deselect the tools you want to use
+- Prompt: What is the schema of the todos table?
+- Prompt: Add a completed field.
 
 
