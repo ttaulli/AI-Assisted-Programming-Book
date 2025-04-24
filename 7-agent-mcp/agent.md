@@ -31,7 +31,27 @@ Replace the homepage of this project with a search input that for city that prov
 
 MCP Demo
 
-Create a new folder
+- Select Agent Mode from the dropdown menu.​
+- You can find MCP servers here: https://github.com/modelcontextprotocol/servers
+- Supabase provides a fully managed PostgreSQL database as part of each project you create. 
+- Create an account: https://supabase.com/
+- Click Start project
+- Register an account
+- Enter the name of the project
+- Enter password
+- Select Table Editor
+- Select Create a new table
+- Name: Todos
+- Click New column
+- For name, enter: task
+- Click save
+- Click Insert to add new rows of data
+
+
+
+
+
+
 
 
 
