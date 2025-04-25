@@ -94,4 +94,4 @@ MCP Demo
 - Prompt: What is the schema of the todos table?
 - Prompt: Add a completed field.
 
-
+- Agent and unit testing
