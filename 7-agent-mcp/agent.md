@@ -57,6 +57,7 @@ MCP Demo
 - Enter name for it
 - Copy your token
 
+- Instructions:  https://supabase.com/docs/guides/getting-started/mcp
 - In VS Code, create a .vscode directory in your project root if it doesn't already exist
 - Create a .vscode/mcp.json file if it doesn't already exist
 - Add the following configuration:
