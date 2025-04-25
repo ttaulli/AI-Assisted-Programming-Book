@@ -60,7 +60,6 @@ Use this prompt:  Here's the Stripe API documentation on confirming a payment in
 
 In the Spotify Web API, what are the required parameters for searching for a track, and can you show me a Python code example of how to use it?
 
-In the OpenWeatherMap API, what are the required parameters for getting current weather data for a city, and can you show me a Python code example of how to use it?
 
 # Output Formating
 
@@ -155,7 +154,7 @@ Ensure the function handles these cases correctly.
     - Respects your IDE settings, like indentation style
     - Use the folder structure and file names to better understand the project context
 - Reduces the need for writing lengthy prompts
-- Use of shorthand commands -- called agents -- for the prompts
+
 - Example of using GitHub Copilot for context for SQL
 - Use sample.sql file
 - Prompt:  Find All Employees in a the sales department
