@@ -127,3 +127,6 @@ def add(a, b):
 # Activate them but may be fee
 # In the Chat, you can select the ...
 # Different ways to intereact with Chat, such as Immersive mode
+
+# short hand for GitHub Copilot
+# / @
