@@ -130,3 +130,8 @@ def add(a, b):
 
 # short hand for GitHub Copilot
 # / @
+
+# You can have the AI generate pull request descriptions
+# Select version control icon on the left
+# Click sparkle icon
+

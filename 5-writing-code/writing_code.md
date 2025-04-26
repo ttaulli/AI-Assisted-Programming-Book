@@ -1,5 +1,10 @@
 # Writing Code
 
+- Code referencing or matching
+- Will detect if AI-code generated matches public repos
+- Can detect issues with intellectual property rights
+- Less than 1% of the results
+
 ## Learning
 - Prompt: For someone who does not know Python, what should I learn first?
 - Prompt: What are some beginner-friendly projects I can try to improve my skills in React?
