@@ -1,0 +1,6 @@
+id,email,name,age,subscription_status
+1,lisa.jones@gmail.com,Lisa Jones,23,enterprise
+2,emma.williams@example.com,Emma Williams,20,free
+3,david.davis@example.com,David Davis,49,premium
+4,michael.brown@gmail.com,Michael Brown,57,free
+5,emma.jones@outlook.com,Emma Jones,30,free

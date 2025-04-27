@@ -38,6 +38,10 @@ How do I run this?
 
 Replace the homepage of this project with a search input that for city that provides weather details. use the @fetch https://openweathermap.org/api
 
+Creating data
+
+Create demo data for 5 IDs and email data and save this to a CSV file.
+
 MCP Demo
 
 - Select Agent Mode from the dropdown menu.​
