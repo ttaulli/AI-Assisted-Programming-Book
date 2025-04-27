@@ -1,5 +1,89 @@
 # Writing Code
 
+
+
+Next Edit Suggestions (NES)
+
++ uses default LLM
+
+ 
+
+Configure this at bottom right copilot icon
+
+ 
+
+#1 - Change the name of a function (importance of naming conventions)
+
+ 
+
+def 2d
+
+def 3d
+
+ 
+
+will predict what you need to do to the code
+
+ 
+
+tab to navigate and accept
+
+or hover over the indicator (arrow) on the left (accept/reject/etc)
+
+ 
+
+#2 - Adding logic and using it elsewhere
+
+game
+
+say it is two players but add another one
+
+NES will need to add more logic through the program
+
+ 
+
+#3 - Changing or fixing logic
+
+ 
+
+add another parameter for the function
+
+ 
+
+cascade changes
+
+ 
+
+so you have a+a, but it uses a minus instead?  Will pick up on it
+
+ 
+
+add_two = a - b
+
+ 
+
+#4 - refactoring
+
+ 
+
+// ask for first name
+
+ 
+
+change it to
+
+ 
+
+// as for first and last name
+
+ 
+
+rename variable
+
+ 
+
+
+
 - Code referencing or matching
 - Will detect if AI-code generated matches public repos
 - Can detect issues with intellectual property rights
