@@ -24,6 +24,7 @@ Selection:
 - OpenWeatherMap API
 - https://openweathermap.org/api
 - Register and get the API
+- API Key/Weather - 5713368301d35528e4ecf77aa1aba82d
 
 Process:
 - Create a new folder for the project
