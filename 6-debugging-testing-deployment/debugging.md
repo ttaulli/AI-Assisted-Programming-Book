@@ -83,15 +83,7 @@ def get_user_data(user_id):
     return result
 ```
 
-# Unit Tests
 
-- GitHub Copilot can create test cases
-- Can't do everything
-- But provide a good start
-- Different types of unit testing frameworks
-- In your prompt, specify the framework
-- Chat tends to have more tests than using in-line chat
-- Examples:  tests.py
 
 # Create a Changelog
 

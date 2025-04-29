@@ -108,6 +108,15 @@ MCP Demo
 - Prompt: Add a completed field.
 
 - Agent and unit testing
+
+# Unit Tests
+
+- GitHub Copilot can create test cases
+- Can't do everything
+- But provide a good start
+- Different types of unit testing frameworks
+- In your prompt, specify the framework
+- Chat tends to have more tests than using in-line chat
 - /tests and run it 
 - tests.py
 
