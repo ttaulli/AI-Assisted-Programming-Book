@@ -108,7 +108,8 @@ MCP Demo
 - Prompt: Add a completed field.
 
 - Agent and unit testing
-
+- /tests and run it 
+- tests.py
 
 - GitHub Copilot Spark
 
