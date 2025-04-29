@@ -1,3 +1,74 @@
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+Add guidance for AI-generated pull request descriptions and code matching
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+initial
+Add initial securitytest.py with vulnerabilities and hardcoded credentials
+Add validation and edge case tests for factorial function; implement is_prime function with tests
+Add password generation function and demo data to test.py; update breakpoints in tests.py
+Add functions to convert Fahrenheit to Celsius and multiply two numbers in sample.py
+Add instruction to access GitHub Copilot settings in sample.py
+Add instruction for installing chat extensions in sample.py
+Add documentation for GitHub Copilot extensions and usage
+Add CHANGELOG.md to document project updates and modifications
+Add additional prompt for web app development in Prompts.ipynb
+Implement user registration and login functionality in the to-do app
+Add prompts for context and framework usage in cursor.py
+Add technology recommendation prompt for REST API authentication in Prompts.ipynb
+Refactor code to improve comments on chat functionality and auto completion in cursor.py
+Refactor code to add comments about chat functionality and context prompts in cursor.py
+Refactor code to fix function definition and add comment about fixing code on the fly in cursor.py
+Refactor code to remove unnecessary blank lines in cursor.py
+Refactor code to add comment about using tab for auto completion in cursor.py and remove unnecessary blank lines in sample.py
+Refactor code to add comments about features and auto completion in cursor.py
+Refactor code to update project description in code.ipynb for clarity on the technology stack
+Refactor code to add comments about file context and GitHub repository search in sample.py
+Refactor code to update comment about sidebar chat in VS Code and remove duplicate line
+Refactor code to update comment about sidebar chat icon in VS Code and clarify its position
+Refactor code to update comment about sidebar chat icon in VS Code and add prompt for error handling
+Refactor code to fix a typo in the comment about selecting the file icon and add a prompt for error handling
+Refactor code to add additional instructions for using Canvas and update dashboard information in the ChatGPT notebook
+Refactor code to fix a typo in the function comment from 'add' to 'convert'
+Refactor code to fix a typo in the comment and add information about additional AI models
+Refactor code to update comments and include additional information about using GitHub Copilot in GitHub.com
+Refactor code to fix a typo in the comment for creating a Changelog
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
+Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
 Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
 Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
 Refactor code to include additional information about using GitHub Copilot in GitHub.com and update comments for file and terminal usage
