@@ -1,5 +1,13 @@
 # Writing Code
 
+# Custom Instructions
+- fine tune responses for prompts
+- spacing, indention, variable name conventions
+- .GitHub folder
+- copilot-instructions.md
+- This is added to your prompts
+- Check references
+
 
 # Next Edit Suggestions (NES)
 - It's about editing existing code

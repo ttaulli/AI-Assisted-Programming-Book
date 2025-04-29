@@ -1,5 +1,9 @@
 # 4 - Prompt Engineering
 
+# Be Polite
+* Please, can you ?
+* The underlying datasets may pickup on more accurate content
+
 # System Message
 
 * Persona or role
