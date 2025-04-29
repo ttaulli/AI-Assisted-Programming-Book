@@ -4,6 +4,11 @@ pizza_type = 'Pepperoni'
 print(pizza_type)
 
 
+# Add parameters
+
+def greet(first_name):
+    print("Hello, " + first_name + "!")
+
 # Changing class/method/function names
 # change class to 3DPoint
 

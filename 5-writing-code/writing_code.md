@@ -1,5 +1,8 @@
 # Writing Code
 
+# New Way
+- https://x.com/aaditsh/status/1917143080207335843
+
 # Custom Instructions
 - fine tune responses for prompts
 - spacing, indention, variable name conventions
