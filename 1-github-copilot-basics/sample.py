@@ -1,3 +1,5 @@
+# updated details
+https://x.com/ashtom/status/1917696938461519926?s=43&t=cS1w1VZsy-iY3t91NeeUSw
 
 # Create code by using comments
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
@@ -20,6 +22,8 @@ def multiply(a, b):
 # In the chat, you can select the LLL (large language model)
 # Can bring in LLMs via API - select Manage Models
 # Will see the files that are in the context
+# Which model?
+https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeUSw
 # Add context like files
 # Icon for audio
 # Ask or activate Edits or Agent
