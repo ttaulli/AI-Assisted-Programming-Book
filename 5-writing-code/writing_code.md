@@ -143,18 +143,7 @@ Prompt: Generate a SQL insert statement to populate the Feedback table with the 
 
 Prompt: Here's a CSV row: 'John Doe, 35, New York'. Can you convert this into an XML format for me?
 
-## CSS
 
-- Can be tricky and tedious
-- Browser-specific quirks
-
-Prompt: Can you provide me with a CSS snippet for a responsive navigation bar that collapses into a hamburger menu on mobile devices?
-
-Prompt: I'm having trouble with a flexbox layout in CSS where items are not aligning properly. Can you suggest what might be going wrong?
-
-Prompt: I need to add a hover effect to buttons on my website. Can you show me a CSS example to make the button change color when hovered over?
-
-Prompt: I'd like to add a fade-in animation to my website's homepage. Could you provide a CSS code snippet for this?
 
 ## Regular Expressions (Regex)
 
@@ -176,6 +165,8 @@ Prompt: Create a regex pattern to validate dates in the MM/DD/YYYY format. The m
 ## UI
 
 Prompt: I'm creating a website for my home bakery business named "Sweet Whisk." I want a logo that's warm and inviting. The main products are cakes and cookies, so maybe those could be incorporated into the design. I like pastel colors, especially light pink and mint green. The style should be simple and modern, with a touch of playfulness.
+
+## OCR in ChatGPT
 
 ## Claude
 Prompt: Please code this UI
