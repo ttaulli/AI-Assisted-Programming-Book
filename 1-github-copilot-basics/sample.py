@@ -1,5 +1,3 @@
-# updated details
-https://x.com/ashtom/status/1917696938461519926?s=43&t=cS1w1VZsy-iY3t91NeeUSw
 
 # Create code by using comments
 # Comment/Prompt:  Create a Python function that converts fahrenheit to celsius
