@@ -60,6 +60,11 @@ Prompt: List the main competitors for [name the category].  Put this in a table.
 
 - V0 - https://v0.dev/
 
+- Google Stitch - https://stitch.withgoogle.com/
+- Use experimental mode 
+- Limited based on number of AI generations
+- Edit theme (top right)
+- Attach sketches/images/websites
 
 - If creating a web app, you can create a prompt for each page or section.
 
