@@ -183,3 +183,7 @@ Usually use Object-Relational Mapping (ORM) tools for this.
 
 Example file for this: artists.sql
 Prompt: Create a model for the artist table
+
+## Clerk
+
+Copy prompt feature
