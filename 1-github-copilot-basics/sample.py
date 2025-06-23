@@ -28,6 +28,7 @@
 # Will see the files that are in the context
 # Which model?
 https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeUSw
+# Generally, fewer models for Edit and Agent modes
 # Add context like files
 # Icon for audio
 # Ask or activate Edits or Agent
@@ -48,26 +49,26 @@ https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeU
 # respond with a more generic answer
 # show how this works with sort.py
 
+# In the Chat, you can select the file icon
+# Can indicate what part of the program you want to focus on
+# Can drag the file to the chat
+# can turn off the file, by selecting the eye icon
+
 # @workspace 
 # Refers to the Visual Studio Code workspace
 # Can't look at everything because of the limits of the LLM's context window 
 # Code bases can be massive
-# so will evaluate:
-# 1. file system structure
-# 2. relevant code snippets (class, methods, comments)
-# does not have access to git history
-# Cannot handle prompts like:
-# "Fix all the bugs in this project" (too vague and expansive)
-# "How many JS files does this project have?" (LLMs not good at counting; besides can use VS Code for this)
-
-# In the Chat, you can select the file icon
-# Can indicate what part of the program you want to focus on
+# The references will show what @workspace is referring to
+# @workspace is available only for Ask mode
 
 # Example:  my-python-project
 # Prompt:  @workspace what is todo-app?
 # Fuzzy search
 # Prompt:  @workspace in the todo app, what code adds a task?
 # Click the references
+
+# #codebase is the same concept as @workspace
+# But you can use it for Edit and Agent modes
 
 # /explain provide details about the code
 # In-line Chat
@@ -93,6 +94,8 @@ def add(a, b):
 # Select files:  
 # for todo:  main.py, models.py, views.py
 # Prompt:  Add authentication to this
+# Review the changes
+# Keep or Undo
 
 # Terminal
 # Activate it and use in-line chat
