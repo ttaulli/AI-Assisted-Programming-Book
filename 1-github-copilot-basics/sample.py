@@ -70,6 +70,9 @@ https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeU
 # #codebase is the same concept as @workspace
 # But you can use it for Edit and Agent modes
 
+# With Edit mode, you need to provide Chat with files as context
+# With Agent mode, it will essentially figure out what files are needed for context
+
 # /explain provide details about the code
 # In-line Chat
 # ctrl + i for Windows
