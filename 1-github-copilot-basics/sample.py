@@ -98,8 +98,9 @@ def add(a, b):
 # Similar to the Composer feature in Cursor
 # If you are working with multiple files
 # Select files:  
-# for todo:  main.py, models.py, views.py
-# Prompt:  Add authentication to this
+# for todo: 
+# Drag page.tsx 
+# Prompt:  Change the title to Super Todo App on the home page.
 # Review the changes
 # Keep or Undo
 
