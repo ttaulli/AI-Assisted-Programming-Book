@@ -19,8 +19,8 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col items-center min-h-screen p-8 bg-background text-foreground text-green-600">
-      <h1 className="text-3xl font-bold mb-8">Super Todo App</h1>
+    <div className="flex flex-col items-center min-h-screen p-8 bg-background text-foreground">
+      <h1 className="text-3xl font-bold mb-8">Todo App</h1>
       <form onSubmit={addTask} className="flex gap-2 mb-6 w-full max-w-md">
         <input
           className="flex-1 px-3 py-2 border rounded focus:outline-none focus:ring"

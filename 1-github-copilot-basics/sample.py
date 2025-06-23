@@ -103,6 +103,7 @@ def add(a, b):
 # Prompt:  Change the title to Super Todo App on the home page.
 # Review the changes
 # Keep or Undo
+# change Color of the text to green
 
 # Terminal
 # Activate it and use in-line chat
