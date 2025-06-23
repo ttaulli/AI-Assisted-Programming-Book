@@ -12,11 +12,8 @@
 
 
 
-
 # Start with def convert
-
-def multiply(a, b):
-    return a * b
+# def multiply(a, b):
 
 
 
@@ -46,9 +43,7 @@ https://x.com/windsurf_ai/status/1917656073177292809?s=43&t=cS1w1VZsy-iY3t91NeeU
 
 # Working with context
 # When prompting, what are you refering to?
-# #file the file where your cursor is
-# Do not even need to specify "file" because it is the default
-# Just specify the name of the file
+# #fetch to access an external website, such as API
 # if GitHub Copilot does not have the relevant context, it often will 
 # respond with a more generic answer
 # show how this works with sort.py
