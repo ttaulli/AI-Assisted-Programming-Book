@@ -5,6 +5,7 @@ Capabilities of ChatGPT
 - Depends on what the LLM is trained on
 
 - Tour of ChatGPT
+- Codex (integration with GitHub/repos)
 - Keep a session to one topic (click the chat icon at top left of screen)
 - LLM can get confused, misdirected
 - Can search chats
@@ -26,11 +27,14 @@ improve my code.
 
 - Coding prompt:
 
-Write a Python function that reverses a string.
+I want to create an investment calculator.  
+It will allow me to input an initial investment amount 
+and the average annual return.  
+I will also be able to input the number of years for 
+the investment.  Make a Web interface for this.
 
-- Select Edit in Canvas
-- Select ... in the input box
 
+- Select Tools + Write or Code
 - Select icon on bottom right for programming options
 
 - Customized apps for ChatGPT
@@ -40,11 +44,4 @@ Write a Python function that reverses a string.
 - Customizations of ChatGPT
 
 - Claude 
-
-I want to create an investment calculator.  
-It will allow me to input an initial investment amount 
-and the average annual return.  
-I will also be able to input the number of years for 
-the investment.  Make a Web interface for this.
-
-Gemini
+- Gemini
