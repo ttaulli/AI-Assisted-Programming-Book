@@ -8,7 +8,7 @@ Prompt: What are techniques for brainstorming ideas for new products? Use the in
 
 - A good LLM for this:  https://www.perplexity.ai/
 
-- Deep Research capabilities/ChatGPT and Gemini
+- Deep Research capabilities/ChatGPT, Claude, Gemini
 
 - Integration with Internet/sources
 - ChatGPT:  select Search
@@ -45,30 +45,19 @@ Prompt:  I'm developing a website for a Resident Engagement & Social Activity Ma
 
 Prompt: List the main competitors for [name the category].  Put this in a table.
 
-- Analysis
-- Use:  https://notebooklm.google/
-- Load content and use RAG (Retrieval Augmented Generation)
-
-- Prototype
-
-- Galileo - https://www.usegalileo.ai/explore
+- V0 - https://v0.dev/
 
 - Creates the UI and HTML/CSS
 - Uses AI to build the UI
 - Sample UIs
-- Click on the sample, can see the prompt
 
-- V0 - https://v0.dev/
+Prompt:  I'm developing a website for a Resident Engagement & Social Activity Management system designed for senior living facilities. I want to create the dashboard that allows activity coordinators to efficiently plan, schedule, and manage daily social and wellness activities for residents. This should be designed with simplicity and functionality in mind. It will include a calendar view for quick access to upcoming activities and provide options for customizing events based on resident preferences or facility needs. Additionally, the dashboard will enable real-time updates, helping staff stay informed of any changes or cancellations.
 
 - Google Stitch - https://stitch.withgoogle.com/
 - Use experimental mode 
 - Limited based on number of AI generations
 - Edit theme (top right)
 - Attach sketches/images/websites
-
-- If creating a web app, you can create a prompt for each page or section.
-
-Prompt:  I'm developing a website for a Resident Engagement & Social Activity Management system designed for senior living facilities. I want to create the dashboard that allows activity coordinators to efficiently plan, schedule, and manage daily social and wellness activities for residents. This should be designed with simplicity and functionality in mind. It will include a calendar view for quick access to upcoming activities and provide options for customizing events based on resident preferences or facility needs. Additionally, the dashboard will enable real-time updates, helping staff stay informed of any changes or cancellations. 
 
 Prompt:  [Upload whiteboard.png]  Create an UI for this.
 
