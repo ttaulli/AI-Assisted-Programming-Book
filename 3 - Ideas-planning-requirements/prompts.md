@@ -27,6 +27,17 @@ Prompt:  Which one would an AI-powered SaaS solution be the best opportunity?
 
 - Note:  The research needs to be validated.  But this informaton can be a good start.
 
+- Deep Research
+- Can take 5-20 minutes to create a report
+
+For this:  I want to create a vertical SaaS application.  I want to focus on an underserved market that does not have much adoption of technology.  I also want an industry that has many businesses, especially small and medium size ones.  Create a report for this.  Include the industry name, the total revenues in the US and the total number of businesses.  Create a list of 20 of them, which have the most potential for success.
+
+https://claude.ai/public/artifacts/da7c84fc-00a7-4707-b404-8122858fa409
+
+https://docs.google.com/document/d/14uJ8my_UAJ0Qqyc4Q-adW-YGlbGUegDev4wnlUxDTsw/edit?usp=sharing
+
+https://chatgpt.com/share/685c324a-4b28-8010-91e4-7a0fb7b1fe9e
+
 
 - Defining Your Target Audience
 
