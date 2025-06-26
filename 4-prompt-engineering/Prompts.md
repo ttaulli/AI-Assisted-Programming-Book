@@ -57,6 +57,19 @@ Implement a function that safely converts a string to an integer, returning None
 * Focus the LLM on what you want to work on
 * Examples:
 
+Explain this code:
+
+###
+_ = lambda f: lambda *a, **k: f(*a, **k)
+__ = [chr(ord('a') + i) for i in range(26)]
+___ = __[17] + __[4] + __[2] + __[10]  # "reck"
+____ = lambda x: ''.join(map(lambda c: chr(((ord(c) - 97 + 13) % 26) + 97), x))  # rot13
+_____ = {____(k): v for k, v in {___: 42, __[0]*3: 7}.items()}  # {'erpx': 42, 'nnn': 7}
+
+print(_____['erpx'] * _____['nnn'])  # 42 * 7 = 294
+
+###
+
 Stripe API
 
 
@@ -64,10 +77,12 @@ Use this prompt:  Here's the Stripe API documentation on confirming a payment in
 
 In the Spotify Web API, what are the required parameters for searching for a track, and can you show me a Python code example of how to use it?
 
+Is this based on the most up-to-date version of the API documentation?
+
 
 # Output Formating
 
-Examples:  
+Examples (try in GitHub Copilot and ChatGPT): 
 
 Create a Python function that takes a list of user objects (each object containing a user's ID and name) and returns a JSON object that maps user IDs to names. Format the output as JSON.
 
@@ -100,7 +115,7 @@ Express this in 300 words
 * What does DB refer to?  What type of databases:
 * Prompt:  I am encourning a connection timeout issue while trying to connect to my PostgreSQL database using JDBC. How can I resolve this?
 
-# Few-Shot Learning
+# Zero-Shot and Few-Shot Learning
 
 * Provide examples in the prompt
 * Form of prompt learning
