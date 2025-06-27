@@ -166,6 +166,12 @@ Prompt: Create a regex pattern to validate dates in the MM/DD/YYYY format. The m
 
 Prompt: I'm creating a website for my home bakery business named "Sweet Whisk." I want a logo that's warm and inviting. The main products are cakes and cookies, so maybe those could be incorporated into the design. I like pastel colors, especially light pink and mint green. The style should be simple and modern, with a touch of playfulness.
 
+Create UI for calc.png
+
+Write it in JavaScript and html.
+
+Write the code to make it function.
+
 ## OCR in ChatGPT
 
 ## Claude
