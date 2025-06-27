@@ -61,18 +61,11 @@ You can then follow this up with:
 - Lots of boilerplate with code
 - Scaffold the product
 - @workspace /new a nodejs project with the express library
-- Screenshot of the scaffold/explain using ChatGPT
+- Screenshot of the scaffold/explain it
 
 ## Notebook
-- Generate button
-- Prompt: import housing.csv and create a table for it
-
-## Autofill
-- Example: Want to make an app that is responsive
-- Have constants for the breakpoints for a CSS-in-JS styled-components library.
-- breakpoints = {
- 'xs': '320px', # Extra small devices
-- Prompt: Create constants for other screen sizes
+- Agent mode
+- Prompt: Create a Jupyter Notebook.  Import housing.csv and create a table for it
 
 ## Refactoring
 - Process of restructuring code without changing its external behavior
