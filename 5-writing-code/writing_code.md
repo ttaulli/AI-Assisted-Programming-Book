@@ -5,11 +5,19 @@
 
 # Custom Instructions
 - fine tune responses for prompts
-- spacing, indention, variable name conventions
+- guarantee code aligns with your build tools, formatting style, and workflows.
+- no more copy-pasting context in every prompt.
+- enforces shared conventions across all contributors 
+
 - .GitHub folder
 - copilot-instructions.md
 - This is added to your prompts
 - Check references
+
+- Best Practices
+- Keep instructions short and specific. One guideline per line .
+- Focus on what matters: coding conventions, tech stacks, commit style, issue trackers.
+- Avoid vague requests.
 
 # Next Edit Suggestions (NES)
 - It's about editing existing code
