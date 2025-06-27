@@ -77,14 +77,18 @@ You can then follow this up with:
 
 ### Extract Method
 - Simplify a long method or function
+- Breack it into smaller, more manageable functions
+- Prompt: Use the extract method on this file
 - See extract-method.py
 
 ### Decomposing Conditionals
 - A refactoring technique used to simplify complex conditional expressions in your code
+- Prompt: refactor
 - See decompose-conditionals.py
 
 ### Renaming
 - Clarity and maintainability
+- Prompt: refactor
 - renaming.py
 
 ### Dead Code

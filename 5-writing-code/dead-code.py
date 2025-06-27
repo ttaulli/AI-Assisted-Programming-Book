@@ -14,18 +14,18 @@ class UserManager:
             # Sending welcome email (Simulated)
             print(f"Sent welcome email to {user_email}")
     
-    # Dead Code
+
     def deactivate_user(self, username):
         if username in self.users:
             # Mark the user as deactivated (This was once used but is now deprecated)
             self.users[username]["active"] = False
 
-    # Dead Code
+   
     def get_deactivated_users(self):
         # This method was used to retrieve deactivated users but is no longer used
         return [user for user in self.users if not self.users[user].get("active", True)]
 
-    # Dead Code
+
     def send_promotional_email(self, username):
         # This method was used in an old feature that has been replaced
         user_email = self.get_user_email(username)
