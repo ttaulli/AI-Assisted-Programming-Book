@@ -19,7 +19,7 @@
 - Update .gitignore for new build artifacts or dependencies.
 
 ## Change Logging
-- Each time you generate code, note the changes in changelog.md
+- Each time you generate code, note the changes in changelog.md in the root of the repo
 - Follow semantic versioning guidelines
 - Include date and description of changes
 
