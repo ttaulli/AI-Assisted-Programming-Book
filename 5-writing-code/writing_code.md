@@ -11,11 +11,6 @@
 - This is added to your prompts
 - Check references
 
-- Can have it available for all projects
-- Press Ctrl + Shift + P (or Cmd + Shift + P on macOS) to open the Command Palette.
-- Type and select “Preferences: Open User Settings (JSON)”.
-
-
 # Next Edit Suggestions (NES)
 - It's about editing existing code
 - Configure this at bottom right copilot icon
