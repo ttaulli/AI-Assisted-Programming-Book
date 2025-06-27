@@ -1,7 +1,7 @@
 # Rename pizza to pizzaType.
 
-pizza_type = 'Pepperoni'
-print(pizza_type)
+pizza = 'Pepperoni'
+print(pizza)
 
 
 # Add parameters
@@ -15,7 +15,7 @@ def greet(first_name):
 import math
 
 class Point:
-    def __init__(self, x: float, y: float):
+    def __init__(self, x: float, y: float, z: float):
         self._x = x
         self._y = y
 
@@ -30,7 +30,7 @@ class Point:
 def multiply(a: float, b: float = 1) -> float:
     return a * b
 
-# Function with Optional Parameters
+# Function with Optional Parameters; use farewell
 def greet(name: str, greeting: str = None) -> str:
     return f"{greeting or 'Hello'}, {name}!"
 
