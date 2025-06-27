@@ -2,17 +2,13 @@
 
 # Comments
 
-Use /doc
+/doc deprecated
 
-temperature.py
-
-Prompt:  /doc
-
-Prompt:  /doc use emojis too
+With Agent mode, may see much less of / slash commands
 
 # API
 
-Prompt:  Please generate detailed API documentation for this API. The documentation should include descriptions for each endpoint, required request parameters, possible responses, and examples of requests and responses in JSON format. Additionally, include potential error codes and their meanings. Use clear headings and structure the documentation for easy readability.
+Prompt:  Please generate detailed API documentation for this API. The documentation should include descriptions for each endpoint, required request parameters, possible responses, and examples of requests and responses in JSON format. Additionally, include potential error codes and their meanings. Use clear headings and structure the documentation for easy readability. Create this as a separate markdown file in the 6-debugging-testing-deployment folder 
 
 # Debugging
 
@@ -28,11 +24,8 @@ Logical Errors
 
 These bugs occur when the code is syntactically correct but does not produce the desired result due to flawed logic or reasoning
 
-```python
-# /fix command in GibHub Copilot
-```
+# /fix command in GitHub Copilot
 
-```python
 # Logical error
 def find_max(a, b):
     if a < b:
@@ -41,17 +34,15 @@ def find_max(a, b):
         return b
     
 print(find_max(3, 5)) # 3
-```
 
-```python
+
 # Error handling
 def divide_numbers(a, b):
     return a / b
 
 print(divide_numbers(10, 0)) 
-```
 
-```python
+
 # optimization
 def calculate_squares(numbers):
     squares = []
@@ -60,16 +51,14 @@ def calculate_squares(numbers):
     return squares
 
 print(calculate_squares([1, 2, 3, 4, 5]))
-```
 
-```python
+
+
 # security bug
 
-# SQL Injection** is a security vulnerability that allows attackers to interfere 
-# with the queries an application makes to its database.
-# Occurs when: User input is improperly sanitized, allowing malicious code to be included in SQL statements.
-# Consequences:** Can lead to unauthorized data access, data modification, database corruption, or e
-# ven the execution of administrative operations on the database.
+- A SQL Injection is a security vulnerability that allows attackers to interfere with the queries an application makes to its database.
+- Occurs when: User input is improperly sanitized, allowing malicious code to be included in SQL statements.
+- Can lead to unauthorized data access, data modification, database corruption, or even the execution of administrative operations on the database.
 
 import sqlite3
 
@@ -81,21 +70,6 @@ def get_user_data(user_id):
     result = cursor.fetchone()
     connection.close()
     return result
-```
-
-
-
-# Create a Changelog
-
-Go to terminal
-
-Prompt (in-line chat):  How can I extract commit messages from git to a file?
-
-Prompt (in-line chat):  Update for the name of the file of commits.txt
-
-Select Run
-
-Prompt (chat):  Use commits.txt to create a changelog.  Only for code.  Format is markdown.
 
 # Deployment
 
@@ -118,5 +92,5 @@ Containerization**
 Dockerfile Configuration Prompt
   "Generate a Dockerfile for a Python Django application that installs dependencies, copies application files, and runs `python manage.py runserver`."
 
-ubernetes Manifest Prompt
+Kubernetes Manifest Prompt
   "Write a Kubernetes deployment and service manifest to deploy a MySQL database with persistent storage in a Kubernetes cluster."
