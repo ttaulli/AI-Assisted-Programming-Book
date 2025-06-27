@@ -26,7 +26,7 @@
 
 nextedit.py 
 
-
+# IP
 - Code referencing or matching
 - Will detect if AI-code generated matches public repos
 - Can detect issues with intellectual property rights
