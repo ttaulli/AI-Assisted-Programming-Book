@@ -3,13 +3,11 @@ Agent Mode
 End of prompt engineering?
 - Prompt is more about goals, not detailed descriptions
 
-Recommendations:
+Creating an app
 
-Prompts:
+Prompt:  I want to create a web application that provides weather information for a given city.  I want to use a free API.  Also, what do you suggest for the tech stack?
 
-What are libraries and frameworks to create web applications?
-
-What are free APIs that can be used to retrieve information about the weather? 
+Prompt: Let's create a NextJS app for this.  Use the OpenWeatherMap API.  Here's the API key for it: 713368301d35528e4ecf77aa1aba82d.  Create this project in the folder called 7-agent-mcp.
 
 Selection:
 - Nextjs
@@ -18,22 +16,6 @@ Selection:
 - Register and get the API
 - API Key/Weather - 5713368301d35528e4ecf77aa1aba82d
 
-Process:
-- Create a new folder for the project
-- Then upload it to VS Code
-
-Prompts
-
-Create a new Nextjs project in the current directory. Do not initialize a git repository.
-
-
-How do I run this?
-
-Replace the homepage of this project with a search input that for city that provides weather details. use the @fetch https://openweathermap.org/api
-
-Creating data
-
-Create demo data for 5 IDs and email data and save this to a CSV file.
 
 MCP Demo
 
