@@ -1,15 +1,7 @@
 Agent Mode
 
-Use Claude 3.7 Sonnett
-
 End of prompt engineering?
 - Prompt is more about goals, not detailed descriptions
-
-
- Prompt: Build a Python script using Flask that implements user authentication. Include routes for user registration, login, and logout. Store user data in an SQLite database, hashing passwords securely using the bcrypt library.
-
-Prompt: Write a script for authentication.
-
 
 Recommendations:
 
