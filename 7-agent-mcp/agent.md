@@ -7,7 +7,11 @@ Creating an app
 
 Prompt:  I want to create a web application that provides weather information for a given city.  I want to use a free API.  Also, what do you suggest for the tech stack?
 
-Prompt: Let's create a NextJS app for this.  Use the OpenWeatherMap API.  Here's the API key for it: 713368301d35528e4ecf77aa1aba82d.  Create this project in the folder called 7-agent-mcp.
+In the terminal:  npx create-next-app@latest . 
+
+npm run dev
+
+Prompt: Let's create a NextJS app for this.  Use the OpenWeatherMap API.  Here's the API key for it: 713368301d35528e4ecf77aa1aba82d.  I have setup NextJS app in the directory 7-agent-mcp/weather-app.  Create a page that allows users to enter a city name and displays the current weather information for that city.
 
 Selection:
 - Nextjs
